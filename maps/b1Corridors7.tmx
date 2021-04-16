@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="64" tileheight="64" infinite="0" nextlayerid="5" nextobjectid="41">
+ <tileset firstgid="1" source="L1 Acc.tsx"/>
+ <tileset firstgid="17" source="First level tiles.tsx"/>
+ <layer id="1" name="bg" width="32" height="24">
+  <data encoding="csv">
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+</data>
+ </layer>
+ <layer id="2" name="second back" width="32" height="24">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,
+0,0,0,0,0,0,0,1,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,
+0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,
+0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,4,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,12,0,0,0,0,0,0,0,1,0,0,0,0,0,11,12,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,0,0,0,0,0,15,16
+</data>
+ </layer>
+ <layer id="3" name="tiles" width="32" height="24">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,
+0,0,0,0,0,17,18,18,18,18,18,18,18,19,0,0,0,0,0,0,0,17,18,18,18,18,18,18,18,18,18,19,
+0,0,0,0,0,21,22,22,22,22,22,22,22,23,0,0,0,0,0,0,0,21,22,22,22,22,22,22,22,22,22,23,
+0,0,0,0,0,25,26,26,26,26,26,26,26,27,0,0,0,0,0,0,0,25,26,26,26,26,26,26,26,26,26,27,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,17,19,17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,19,
+0,0,0,0,0,0,0,0,0,0,0,0,0,21,23,21,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,23,
+17,18,18,18,18,18,18,18,18,18,18,18,19,21,23,25,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,27,
+21,22,22,22,22,22,22,22,22,22,22,22,23,21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+25,26,26,26,26,26,26,26,26,26,26,26,27,25,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="Object Layer 1">
+  <object id="2" name="Floor" x="0" y="1344" width="960" height="192"/>
+  <object id="3" name="Floor" x="832" y="1216" width="1216" height="192"/>
+  <object id="4" name="Floor" x="320" y="704" width="576" height="192"/>
+  <object id="5" name="Floor" x="1344" y="704" width="704" height="192"/>
+  <object id="6" name="Floor" x="1088" y="896" width="64" height="192"/>
+  <object id="7" name="Door" x="0" y="1200" width="15" height="144">
+   <properties>
+    <property name="direction" value="left"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="4"/>
+    <property name="openTo" value="5"/>
+   </properties>
+  </object>
+  <object id="8" name="Floor" x="0" y="256" width="15" height="944">
+   <properties>
+    <property name="door" value="1"/>
+   </properties>
+  </object>
+  <object id="9" name="Camera" x="832" y="1536" width="64" height="64">
+   <properties>
+    <property name="direction" value="3"/>
+   </properties>
+  </object>
+  <object id="10" name="Camera" x="-64" y="896" width="64" height="64">
+   <properties>
+    <property name="direction" value="4"/>
+   </properties>
+  </object>
+  <object id="11" name="Camera" x="896" y="-64" width="64" height="64">
+   <properties>
+    <property name="direction" value="1"/>
+   </properties>
+  </object>
+  <object id="12" name="Camera" x="2048" y="640" width="64" height="64">
+   <properties>
+    <property name="direction" value="2"/>
+   </properties>
+  </object>
+  <object id="14" name="Floor" x="2048" y="896" width="64" height="320"/>
+  <object id="15" name="Door" x="1856" y="512" width="128" height="192">
+   <properties>
+    <property name="direction" value="back"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="2"/>
+    <property name="openTo" value="9"/>
+   </properties>
+  </object>
+  <object id="16" name="Start" x="1024" y="768" width="64" height="64">
+   <properties>
+    <property name="direction" value="back2"/>
+   </properties>
+  </object>
+  <object id="19" name="Player" x="1856" y="1088" width="64" height="64">
+   <properties>
+    <property name="direction" value="back2"/>
+   </properties>
+  </object>
+  <object id="20" name="Player" x="1792" y="576" width="64" height="64">
+   <properties>
+    <property name="direction" value="back"/>
+   </properties>
+  </object>
+  <object id="21" name="Start" x="1024" y="0" width="64" height="64">
+   <properties>
+    <property name="direction" value="back"/>
+   </properties>
+  </object>
+  <object id="22" name="Enemy" x="640" y="1216" width="64" height="64">
+   <properties>
+    <property name="Etype" value="1"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="23" name="Enemy" x="1536" y="1088" width="64" height="64">
+   <properties>
+    <property name="Etype" value="4"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="1"/>
+   </properties>
+  </object>
+  <object id="24" name="Enemy" x="640" y="576" width="64" height="64">
+   <properties>
+    <property name="Etype" value="2"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="2"/>
+   </properties>
+  </object>
+  <object id="25" name="Enemy" x="1664" y="576" width="64" height="64">
+   <properties>
+    <property name="Etype" value="3"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="3"/>
+   </properties>
+  </object>
+  <object id="26" name="Coin" x="448" y="576" width="64" height="64">
+   <properties>
+    <property name="number" value="0"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="27" name="Coin" x="512" y="576" width="64" height="64">
+   <properties>
+    <property name="number" value="1"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="28" name="Coin" x="448" y="512" width="64" height="64">
+   <properties>
+    <property name="number" value="2"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="29" name="Coin" x="512" y="512" width="64" height="64">
+   <properties>
+    <property name="number" value="3"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="30" name="Coin" x="1024" y="1088" width="64" height="64">
+   <properties>
+    <property name="number" value="4"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="31" name="Coin" x="1152" y="1088" width="64" height="64">
+   <properties>
+    <property name="number" value="5"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="32" name="Coin" x="128" y="768" width="64" height="64">
+   <properties>
+    <property name="number" value="6"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="33" name="Coin" x="192" y="768" width="64" height="64">
+   <properties>
+    <property name="number" value="7"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="34" name="Floor" x="1984" y="0" width="64" height="704"/>
+  <object id="35" name="Floor" x="0" y="-64" width="1984" height="64"/>
+  <object id="36" name="Coin" x="1920" y="192" width="64" height="64">
+   <properties>
+    <property name="number" value="8"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="37" name="Player" x="64" y="1216" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="38" name="Start" x="0" y="768" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="39" name="Floor" x="0" y="0" width="15" height="256">
+   <properties>
+    <property name="door" value="1"/>
+   </properties>
+  </object>
+  <object id="40" name="Door" x="1920" y="1024" width="128" height="192">
+   <properties>
+    <property name="direction" value="back2"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="3"/>
+    <property name="openTo" value="6"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

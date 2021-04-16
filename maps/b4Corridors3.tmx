@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="46" height="24" tilewidth="64" tileheight="64" infinite="0" nextlayerid="8" nextobjectid="38">
+ <tileset firstgid="1" source="RBC tileset and BG.tsx"/>
+ <layer id="6" name="bg" width="46" height="24">
+  <data encoding="csv">
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+</data>
+ </layer>
+ <layer id="7" name="tiles" width="46" height="24">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,4,16,17,17,17,17,17,17,17,17,17,17,18,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,0,0,0,0,0,9,
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,1,2,2,2,2,2,2,2,2,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,6,7,7,7,7,7,7,7,7,7,7,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,11,12,12,12,12,12,12,12,12,12,12,12,13,0,0,16,17,18,0,0,0,0,0,16,17,18,0,0,0,0,16,17,18,0,0,0,16,17,18,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,14
+</data>
+ </layer>
+ <objectgroup id="3" name="Object Layer 1">
+  <object id="1" name="Floor" x="896" y="640" width="1664" height="192"/>
+  <object id="2" name="Floor" x="1472" y="256" width="64" height="192"/>
+  <object id="3" name="Floor" x="1728" y="448" width="64" height="192"/>
+  <object id="4" name="Floor" x="1984" y="256" width="64" height="192"/>
+  <object id="5" name="Floor" x="2880" y="0" width="64" height="1536"/>
+  <object id="6" name="Floor" x="896" y="1344" width="1984" height="192"/>
+  <object id="8" name="Floor" x="1024" y="1088" width="192" height="64"/>
+  <object id="9" name="Floor" x="1536" y="1088" width="192" height="64"/>
+  <object id="10" name="Floor" x="1984" y="1088" width="192" height="64"/>
+  <object id="11" name="Floor" x="2368" y="1088" width="192" height="64"/>
+  <object id="12" name="Floor" x="896" y="0" width="64" height="640"/>
+  <object id="13" name="Floor" x="960" y="-64" width="1920" height="64"/>
+  <object id="14" name="Door" x="960" y="448" width="128" height="192">
+   <properties>
+    <property name="direction" value="back3"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="2"/>
+    <property name="openTo" value="3"/>
+   </properties>
+  </object>
+  <object id="15" name="Floor" x="832" y="960" width="64" height="570"/>
+  <object id="17" name="Enemy" x="2048" y="512" width="64" height="64">
+   <properties>
+    <property name="Etype" value="46"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="18" name="Enemy" x="1536" y="512" width="64" height="64">
+   <properties>
+    <property name="Etype" value="42"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="1"/>
+   </properties>
+  </object>
+  <object id="19" name="Enemy" x="1024" y="1216" width="64" height="64">
+   <properties>
+    <property name="Etype" value="42"/>
+    <property name="keyReq" value="1"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="2"/>
+   </properties>
+  </object>
+  <object id="20" name="Camera" x="832" y="384" width="64" height="64">
+   <properties>
+    <property name="direction" value="4"/>
+   </properties>
+  </object>
+  <object id="21" name="Camera" x="1920" y="1536" width="64" height="64">
+   <properties>
+    <property name="direction" value="3"/>
+   </properties>
+  </object>
+  <object id="22" name="Camera" x="2944" y="768" width="64" height="64">
+   <properties>
+    <property name="direction" value="2"/>
+   </properties>
+  </object>
+  <object id="23" name="Camera" x="2304" y="-64" width="64" height="64">
+   <properties>
+    <property name="direction" value="1"/>
+   </properties>
+  </object>
+  <object id="26" name="Enemy" x="1472" y="1216" width="64" height="64">
+   <properties>
+    <property name="Etype" value="45"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="3"/>
+   </properties>
+  </object>
+  <object id="27" name="Enemy" x="1792" y="1216" width="64" height="64">
+   <properties>
+    <property name="Etype" value="40"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="4"/>
+   </properties>
+  </object>
+  <object id="28" name="Enemy" x="1600" y="960" width="64" height="64">
+   <properties>
+    <property name="Etype" value="45"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="5"/>
+   </properties>
+  </object>
+  <object id="29" name="Enemy" x="2048" y="960" width="64" height="64">
+   <properties>
+    <property name="Etype" value="41"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="6"/>
+   </properties>
+  </object>
+  <object id="30" name="Enemy" x="2240" y="512" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="7"/>
+   </properties>
+  </object>
+  <object id="31" name="Camera" x="0" y="640" width="64" height="64">
+   <properties>
+    <property name="direction" value="4"/>
+   </properties>
+  </object>
+  <object id="32" name="Floor" x="64" y="960" width="768" height="64"/>
+  <object id="33" name="Floor" x="64" y="320" width="64" height="640"/>
+  <object id="34" name="Floor" x="128" y="320" width="768" height="64"/>
+  <object id="35" name="Player" x="1088" y="512" width="64" height="64">
+   <properties>
+    <property name="direction" value="none"/>
+   </properties>
+  </object>
+  <object id="36" name="Start" x="896" y="128" width="64" height="64">
+   <properties>
+    <property name="direction" value="none"/>
+   </properties>
+  </object>
+  <object id="37" name="Money" x="128" y="832" width="128" height="128">
+   <properties>
+    <property name="number" value="11"/>
+    <property name="value" value="15000"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="32" height="23" tilewidth="64" tileheight="64" infinite="0" nextlayerid="8" nextobjectid="67">
+ <tileset firstgid="1" source="RBC tileset and BG.tsx"/>
+ <layer id="6" name="BG" width="32" height="23">
+  <data encoding="csv">
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="7" name="Tile Layer 2" width="32" height="23">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,16,17,17,17,17,17,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,16,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,16,17,18,0,0,0,0,9,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,8,0,0,0,0,0,0,0,9,
+1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,6,7,8,0,0,0,0,0,0,0,9,
+6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,6,7,8,0,0,0,0,0,0,0,9,
+11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,11,12,13,16,17,18,0,0,0,0,9,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,
+9,0,16,17,18,0,16,17,18,0,16,17,18,0,16,17,18,0,16,17,18,0,16,17,18,0,0,0,0,0,0,9,
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,9,
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,8,9,
+14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,8,9,
+1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,6,7,8,9,
+6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,6,7,8,9,
+11,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,11,12,13,14
+</data>
+ </layer>
+ <objectgroup id="3" name="Object Layer 1">
+  <object id="1" name="Door" x="0" y="432" width="15" height="144">
+   <properties>
+    <property name="direction" value="left"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="4"/>
+    <property name="openTo" value="1"/>
+   </properties>
+  </object>
+  <object id="2" name="Floor" x="0" y="0" width="15" height="432">
+   <properties>
+    <property name="door" value="1"/>
+   </properties>
+  </object>
+  <object id="3" name="Camera" x="-64" y="384" width="64" height="64">
+   <properties>
+    <property name="direction" value="4"/>
+   </properties>
+  </object>
+  <object id="4" name="Camera" x="768" y="1472" width="64" height="64">
+   <properties>
+    <property name="direction" value="3"/>
+   </properties>
+  </object>
+  <object id="5" name="Camera" x="2048" y="896" width="64" height="64">
+   <properties>
+    <property name="direction" value="2"/>
+   </properties>
+  </object>
+  <object id="6" name="Camera" x="1024" y="-64" width="64" height="64">
+   <properties>
+    <property name="direction" value="1"/>
+   </properties>
+  </object>
+  <object id="8" name="Floor" x="512" y="192" width="512" height="64"/>
+  <object id="9" name="Floor" x="192" y="320" width="192" height="64"/>
+  <object id="10" name="Floor" x="0" y="576" width="1536" height="192"/>
+  <object id="11" name="Floor" x="1344" y="448" width="384" height="64"/>
+  <object id="12" name="Floor" x="1536" y="704" width="192" height="64"/>
+  <object id="13" name="Floor" x="1984" y="0" width="64" height="1472"/>
+  <object id="14" name="Floor" x="0" y="1280" width="1984" height="192"/>
+  <object id="15" name="Floor" x="1792" y="1088" width="192" height="192"/>
+  <object id="16" name="Floor" x="128" y="1024" width="192" height="64"/>
+  <object id="18" name="Floor" x="384" y="1024" width="192" height="64"/>
+  <object id="19" name="Floor" x="640" y="1024" width="192" height="64"/>
+  <object id="21" name="Floor" x="896" y="1024" width="192" height="64"/>
+  <object id="22" name="Floor" x="1152" y="1024" width="192" height="64"/>
+  <object id="23" name="Floor" x="1408" y="1024" width="192" height="64"/>
+  <object id="24" name="Floor" x="0" y="-64" width="1984" height="64"/>
+  <object id="25" name="Floor" x="0" y="768" width="64" height="512"/>
+  <object id="26" name="Door" x="64" y="1088" width="128" height="192">
+   <properties>
+    <property name="direction" value="back"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="1"/>
+    <property name="openTo" value="3"/>
+   </properties>
+  </object>
+  <object id="27" name="Start" x="0" y="0" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="28" name="Player" x="64" y="448" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="29" name="Start" x="0" y="704" width="64" height="64">
+   <properties>
+    <property name="direction" value="back"/>
+   </properties>
+  </object>
+  <object id="30" name="Player" x="192" y="1152" width="64" height="64">
+   <properties>
+    <property name="direction" value="back"/>
+   </properties>
+  </object>
+  <object id="31" name="Enemy" x="768" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="32" name="Enemy" x="704" y="64" width="64" height="64">
+   <properties>
+    <property name="Etype" value="40"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="1"/>
+   </properties>
+  </object>
+  <object id="33" name="Enemy" x="576" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="41"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="2"/>
+   </properties>
+  </object>
+  <object id="34" name="Enemy" x="1600" y="576" width="64" height="64">
+   <properties>
+    <property name="Etype" value="46"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="3"/>
+   </properties>
+  </object>
+  <object id="35" name="Enemy" x="960" y="896" width="64" height="64">
+   <properties>
+    <property name="Etype" value="43"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="4"/>
+   </properties>
+  </object>
+  <object id="36" name="Enemy" x="448" y="896" width="64" height="64">
+   <properties>
+    <property name="Etype" value="40"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="5"/>
+   </properties>
+  </object>
+  <object id="37" name="Enemy" x="704" y="1152" width="64" height="64">
+   <properties>
+    <property name="Etype" value="42"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="6"/>
+   </properties>
+  </object>
+  <object id="38" name="Enemy" x="1152" y="1152" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="7"/>
+   </properties>
+  </object>
+  <object id="39" name="EBound" x="576" y="0" width="64" height="192"/>
+  <object id="40" name="EBound" x="960" y="0" width="64" height="192"/>
+  <object id="41" name="EBound" x="512" y="384" width="64" height="192"/>
+  <object id="42" name="EBound" x="1664" y="512" width="64" height="192"/>
+  <object id="45" name="EBound" x="832" y="832" width="64" height="192"/>
+  <object id="46" name="EBound" x="1088" y="832" width="64" height="192"/>
+  <object id="47" name="EBound" x="1280" y="1088" width="64" height="192"/>
+  <object id="48" name="EBound" x="576" y="832" width="64" height="192"/>
+  <object id="49" name="EBound" x="320" y="832" width="64" height="192"/>
+  <object id="50" name="EBound" x="448" y="1088" width="64" height="192"/>
+  <object id="51" name="Coin" x="832" y="64" width="64" height="64">
+   <properties>
+    <property name="number" value="0"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="52" name="Coin" x="896" y="64" width="64" height="64">
+   <properties>
+    <property name="number" value="1"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="53" name="Coin" x="896" y="128" width="64" height="64">
+   <properties>
+    <property name="number" value="2"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="54" name="Coin" x="832" y="128" width="64" height="64">
+   <properties>
+    <property name="number" value="2"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="55" name="Coin" x="832" y="0" width="64" height="64">
+   <properties>
+    <property name="number" value="4"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="56" name="Coin" x="896" y="0" width="64" height="64">
+   <properties>
+    <property name="number" value="5"/>
+    <property name="value" value="50"/>
+   </properties>
+  </object>
+  <object id="57" name="Coin" x="1280" y="512" width="64" height="64">
+   <properties>
+    <property name="number" value="6"/>
+    <property name="value" value="25"/>
+   </properties>
+  </object>
+  <object id="58" name="Coin" x="1216" y="512" width="64" height="64">
+   <properties>
+    <property name="number" value="7"/>
+    <property name="value" value="25"/>
+   </properties>
+  </object>
+  <object id="59" name="Coin" x="64" y="832" width="64" height="64">
+   <properties>
+    <property name="number" value="8"/>
+    <property name="value" value="25"/>
+   </properties>
+  </object>
+  <object id="60" name="Coin" x="128" y="832" width="64" height="64">
+   <properties>
+    <property name="number" value="9"/>
+    <property name="value" value="25"/>
+   </properties>
+  </object>
+  <object id="61" name="Enemy" x="896" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="41"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="62" name="Enemy" x="256" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="63" name="Enemy" x="896" y="1152" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="64" name="Enemy" x="1600" y="1152" width="64" height="64">
+   <properties>
+    <property name="Etype" value="41"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="65" name="Enemy" x="640" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="44"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="66" name="Enemy" x="320" y="448" width="64" height="64">
+   <properties>
+    <property name="Etype" value="41"/>
+    <property name="keyReq" value="0"/>
+    <property name="lateSpawn" value="True"/>
+    <property name="mode" value="standard"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

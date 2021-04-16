@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="40" height="12" tilewidth="64" tileheight="64" infinite="0" nextlayerid="4" nextobjectid="24">
+ <tileset firstgid="1" source="signpost tile.tsx"/>
+ <tileset firstgid="2" source="First level tiles.tsx"/>
+ <tileset firstgid="18" source="Bank Lobby.tsx"/>
+ <tileset firstgid="210" source="level 2 tiles.tsx"/>
+ <layer id="3" name="background" width="40" height="12">
+  <data encoding="csv">
+18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,18,19,20,21,22,23,24,25,26,27,
+34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,34,35,36,37,38,39,40,41,42,43,
+50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,50,51,52,53,54,55,56,57,58,59,
+66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,66,67,68,69,70,71,72,73,74,75,
+82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,82,83,84,85,86,87,88,89,90,91,
+98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,98,99,100,101,102,103,104,105,106,107,
+114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,114,115,116,117,118,119,120,121,122,123,
+130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,130,131,132,133,134,135,136,137,138,139,
+146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,146,147,148,149,150,151,152,153,154,155,
+162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,162,163,164,165,166,167,168,169,170,171,
+178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,178,179,180,181,182,183,184,185,186,187,
+194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,194,195,196,197,198,199,200,201,202,203
+</data>
+ </layer>
+ <layer id="1" name="Tile Layer 1" width="40" height="12">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+210,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,211,212,212,0,0,0,0,
+214,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,215,216,216,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="objects">
+  <object id="1" name="Player" x="128" y="512" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="4" name="Enemy" x="1024" y="512" width="64" height="64">
+   <properties>
+    <property name="Etype" value="21"/>
+    <property name="keyReq" value="1"/>
+    <property name="mode" value="starting"/>
+    <property name="number" value="0"/>
+   </properties>
+  </object>
+  <object id="5" name="Player" x="2048" y="512" width="64" height="64">
+   <properties>
+    <property name="direction" value="left"/>
+   </properties>
+  </object>
+  <object id="6" name="Start" x="0" y="0" width="64" height="64">
+   <properties>
+    <property name="direction" value="right"/>
+   </properties>
+  </object>
+  <object id="7" name="Floor" x="0" y="640" width="2279.03" height="128"/>
+  <object id="8" name="Floor" x="-64" y="0" width="64" height="576"/>
+  <object id="9" name="Door" x="2225" y="496" width="15" height="144">
+   <properties>
+    <property name="direction" value="right"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="1"/>
+    <property name="openTo" value="2"/>
+   </properties>
+  </object>
+  <object id="10" name="Floor" x="2225" y="0" width="15" height="496">
+   <properties>
+    <property name="door" value="1"/>
+   </properties>
+  </object>
+  <object id="11" name="Teller" x="1600" y="320" width="194" height="320"/>
+  <object id="12" name="EBound" x="128" y="256" width="64" height="384"/>
+  <object id="13" name="EBound" x="1984" y="320" width="64" height="320"/>
+  <object id="14" name="Coin" x="1152" y="384" width="64" height="64">
+   <properties>
+    <property name="number" value="0"/>
+    <property name="value" value="5"/>
+   </properties>
+  </object>
+  <object id="15" name="Coin" x="1344" y="384" width="64" height="64">
+   <properties>
+    <property name="number" value="1"/>
+    <property name="value" value="4"/>
+   </properties>
+  </object>
+  <object id="16" name="Door" x="0" y="496" width="15" height="144">
+   <properties>
+    <property name="direction" value="left"/>
+    <property name="open" value="0"/>
+    <property name="openKeys" value="4"/>
+    <property name="openTo" value="0"/>
+   </properties>
+  </object>
+  <object id="17" name="Floor" x="0" y="0" width="15" height="496">
+   <properties>
+    <property name="door" value="1"/>
+   </properties>
+  </object>
+  <object id="18" name="Start" x="1216" y="0" width="64" height="64">
+   <properties>
+    <property name="direction" value="left"/>
+   </properties>
+  </object>
+  <object id="20" name="Camera" x="0" y="-64" width="1536" height="64">
+   <properties>
+    <property name="direction" value="1"/>
+   </properties>
+  </object>
+  <object id="21" name="Camera" x="2240" y="0" width="64" height="768">
+   <properties>
+    <property name="direction" value="2"/>
+   </properties>
+  </object>
+  <object id="22" name="Camera" x="0" y="768" width="1536" height="64">
+   <properties>
+    <property name="direction" value="3"/>
+   </properties>
+  </object>
+  <object id="23" name="Camera" x="-64" y="0" width="64" height="768">
+   <properties>
+    <property name="direction" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
